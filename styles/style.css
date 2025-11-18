@@ -257,6 +257,10 @@ header {
   .navbar {
     display: none;
   }
+  
+  .newspaper-name {
+    border: none
+  }
 
   .menu-icon {
     display: block;
